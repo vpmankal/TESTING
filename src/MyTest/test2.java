@@ -8,7 +8,7 @@ public class test2 {
 			WebDriver driver = new ChromeDriver();
 			driver.get("https://www.google.com");
 		String tt= 	driver.getTitle();
-		System.out.println(tt);
+		System.out.println(cc);
 		
 	}
 
